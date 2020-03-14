@@ -161,5 +161,6 @@ def update_map(map_day):
     }
 
 
+
 if __name__ == '__main__':
     app.run_server(debug=True)
